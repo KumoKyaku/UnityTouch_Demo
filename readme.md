@@ -8,7 +8,3 @@ Unity版本unity2017.2.0beta
 # DL
 
 DL: http://pan.baidu.com/s/1bpHBsPT
-
-# Contact
-
-![image](https://github.com/KumoKyaku/READMEPictures/blob/master/Others/Contact.jpg)
